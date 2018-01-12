@@ -6,28 +6,20 @@ using UnityEngine;
 [System.Serializable]
 public class UserSettings : MonoBehaviour {
 
-    public int dayProgress;        //What day in the game are we on
     public float volumeSFX;     
     public float volumeVoice;
     public float volumeBG;
     public float volumeMusic;
-    public KeyCode actionKey;
-    public KeyCode jumpKey;
-    public KeyCode watchKey;
 
     public UserSettings()
     {
-        dayProgress = 0;
-        actionKey = KeyCode.E;
-        jumpKey = KeyCode.Space;
-        watchKey = KeyCode.T;
         volumeSFX = 100f;
         volumeVoice = 100f;
         volumeBG = 100f;
         volumeMusic = 100f;
-}
+    }
 
-public void Save()
+    public void Save()
     {
         BinaryFormatter bf = new BinaryFormatter();
         FileStream file = File.Open(Application.persistentDataPath + "/userSettings.dat", FileMode.Open);
@@ -57,9 +49,6 @@ public void Save()
     public void ClearSave() // Only clear stuff like progress and unlocks
     {
         UserSettings us = new UserSettings();
-        us.actionKey = GameMaster.Instance.userSettings.actionKey;
-        us.jumpKey = GameMaster.Instance.userSettings.jumpKey;
-        us.watchKey = GameMaster.Instance.userSettings.watchKey;
         us.volumeSFX = GameMaster.Instance.userSettings.volumeSFX;
         us.volumeVoice = GameMaster.Instance.userSettings.volumeVoice;
         us.volumeBG = GameMaster.Instance.userSettings.volumeBG;
