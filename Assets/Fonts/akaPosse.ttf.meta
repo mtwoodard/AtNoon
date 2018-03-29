@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5b881b1aeb0c8c44b83dd35f0043c093
+timeCreated: 1522362299
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: akaPosse
+  fontNames:
+  - akaPosse
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
