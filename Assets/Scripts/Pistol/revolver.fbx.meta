@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 583570f7564a0a64f92409a460a9f98a
+timeCreated: 1521152437
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Revolver chamber chamber1 indents1 Capsule10
+    100004: Revolver chamber chamber1 indents1 Capsule5
+    100006: Revolver chamber chamber1 indents1 Capsule6
+    100008: Revolver chamber chamber1 indents1 Capsule7
+    100010: Revolver chamber chamber1 indents1 Capsule8
+    100012: Revolver chamber chamber1 indents1 indents Capsule
+    100014: Revolver chamber chamber1 indents1 indents Capsule1
+    100016: Revolver chamber chamber1 indents1 indents Capsule2
+    100018: Revolver chamber chamber1 indents1 indents Capsule4
+    100020: Revolver chamber chamber1 indents1 indents Capsule9
+    100022: Revolver chamber chamber1 load Cylinder
+    100024: Revolver chamber rod
+    100026: Revolver Grip Grip1 Cube3
+    100028: Revolver Hammer Hammer1 Cube
+    100030: Revolver safety safety1
+    100032: Revolver Sights front_sight front_sight1
+    100034: Revolver Sights rear_sight rear_sight1
+    100036: Revolver trigger trigger1 Cube2
+    100038: Revolver weapon_frame back_ring
+    100040: Revolver weapon_frame Tube
+    100042: Revolver weapon_frame weapon_frame1 Null model
+    100044: Revolver weapon_frame weapon_frame1 Null model_MeshPart0
+    100046: Revolver weapon_frame weapon_frame1 Null model_MeshPart1
+    100048: Revolver weapon_frame weapon_frame1 subtractions Capsule3
+    100050: Revolver weapon_frame weapon_frame1 subtractions Cube1
+    100052: Revolver weapon_frame weapon_frame1 subtractions Cube4
+    100054: Revolver weapon_frame weapon_frame1 subtractions Cylinder1
+    100056: Revolver weapon_frame weapon_frame1 subtractions Cylinder2
+    100058: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.000
+    100060: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.001
+    100062: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.002
+    100064: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.003
+    100066: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.004
+    100068: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.005
+    100070: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.006
+    100072: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.007
+    100074: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.008
+    100076: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.009
+    100078: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.010
+    100080: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.011
+    100082: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.012
+    100084: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.013
+    100086: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.014
+    100088: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.015
+    100090: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.016
+    100092: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.017
+    100094: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.018
+    100096: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.019
+    100098: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.020
+    100100: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.021
+    100102: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.022
+    100104: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.023
+    100106: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.024
+    100108: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.025
+    100110: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.026
+    100112: Revolver weapon_frame weapon_frame1 subtractions Null1 Null2 _2
+    400000: //RootNode
+    400002: Revolver chamber chamber1 indents1 Capsule10
+    400004: Revolver chamber chamber1 indents1 Capsule5
+    400006: Revolver chamber chamber1 indents1 Capsule6
+    400008: Revolver chamber chamber1 indents1 Capsule7
+    400010: Revolver chamber chamber1 indents1 Capsule8
+    400012: Revolver chamber chamber1 indents1 indents Capsule
+    400014: Revolver chamber chamber1 indents1 indents Capsule1
+    400016: Revolver chamber chamber1 indents1 indents Capsule2
+    400018: Revolver chamber chamber1 indents1 indents Capsule4
+    400020: Revolver chamber chamber1 indents1 indents Capsule9
+    400022: Revolver chamber chamber1 load Cylinder
+    400024: Revolver chamber rod
+    400026: Revolver Grip Grip1 Cube3
+    400028: Revolver Hammer Hammer1 Cube
+    400030: Revolver safety safety1
+    400032: Revolver Sights front_sight front_sight1
+    400034: Revolver Sights rear_sight rear_sight1
+    400036: Revolver trigger trigger1 Cube2
+    400038: Revolver weapon_frame back_ring
+    400040: Revolver weapon_frame Tube
+    400042: Revolver weapon_frame weapon_frame1 Null model
+    400044: Revolver weapon_frame weapon_frame1 Null model_MeshPart0
+    400046: Revolver weapon_frame weapon_frame1 Null model_MeshPart1
+    400048: Revolver weapon_frame weapon_frame1 subtractions Capsule3
+    400050: Revolver weapon_frame weapon_frame1 subtractions Cube1
+    400052: Revolver weapon_frame weapon_frame1 subtractions Cube4
+    400054: Revolver weapon_frame weapon_frame1 subtractions Cylinder1
+    400056: Revolver weapon_frame weapon_frame1 subtractions Cylinder2
+    400058: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.000
+    400060: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.001
+    400062: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.002
+    400064: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.003
+    400066: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.004
+    400068: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.005
+    400070: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.006
+    400072: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.007
+    400074: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.008
+    400076: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.009
+    400078: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.010
+    400080: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.011
+    400082: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.012
+    400084: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.013
+    400086: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.014
+    400088: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.015
+    400090: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.016
+    400092: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.017
+    400094: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.018
+    400096: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.019
+    400098: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.020
+    400100: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.021
+    400102: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.022
+    400104: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.023
+    400106: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.024
+    400108: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.025
+    400110: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.026
+    400112: Revolver weapon_frame weapon_frame1 subtractions Null1 Null2 _2
+    2300000: Revolver chamber chamber1 indents1 Capsule10
+    2300002: Revolver chamber chamber1 indents1 Capsule5
+    2300004: Revolver chamber chamber1 indents1 Capsule6
+    2300006: Revolver chamber chamber1 indents1 Capsule7
+    2300008: Revolver chamber chamber1 indents1 Capsule8
+    2300010: Revolver chamber chamber1 indents1 indents Capsule
+    2300012: Revolver chamber chamber1 indents1 indents Capsule1
+    2300014: Revolver chamber chamber1 indents1 indents Capsule2
+    2300016: Revolver chamber chamber1 indents1 indents Capsule4
+    2300018: Revolver chamber chamber1 indents1 indents Capsule9
+    2300020: Revolver chamber chamber1 load Cylinder
+    2300022: Revolver chamber rod
+    2300024: Revolver Grip Grip1 Cube3
+    2300026: Revolver Hammer Hammer1 Cube
+    2300028: Revolver safety safety1
+    2300030: Revolver Sights front_sight front_sight1
+    2300032: Revolver Sights rear_sight rear_sight1
+    2300034: Revolver trigger trigger1 Cube2
+    2300036: Revolver weapon_frame back_ring
+    2300038: Revolver weapon_frame Tube
+    2300040: Revolver weapon_frame weapon_frame1 Null model_MeshPart0
+    2300042: Revolver weapon_frame weapon_frame1 Null model_MeshPart1
+    2300044: Revolver weapon_frame weapon_frame1 subtractions Capsule3
+    2300046: Revolver weapon_frame weapon_frame1 subtractions Cube1
+    2300048: Revolver weapon_frame weapon_frame1 subtractions Cube4
+    2300050: Revolver weapon_frame weapon_frame1 subtractions Cylinder1
+    2300052: Revolver weapon_frame weapon_frame1 subtractions Cylinder2
+    2300054: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.000
+    2300056: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.001
+    2300058: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.002
+    2300060: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.003
+    2300062: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.004
+    2300064: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.005
+    2300066: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.006
+    2300068: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.007
+    2300070: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.008
+    2300072: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.009
+    2300074: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.010
+    2300076: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.011
+    2300078: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.012
+    2300080: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.013
+    2300082: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.014
+    2300084: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.015
+    2300086: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.016
+    2300088: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.017
+    2300090: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.018
+    2300092: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.019
+    2300094: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.020
+    2300096: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.021
+    2300098: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.022
+    2300100: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.023
+    2300102: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.024
+    2300104: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.025
+    2300106: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.026
+    2300108: Revolver weapon_frame weapon_frame1 subtractions Null1 Null2 _2
+    3300000: Revolver chamber chamber1 indents1 Capsule10
+    3300002: Revolver chamber chamber1 indents1 Capsule5
+    3300004: Revolver chamber chamber1 indents1 Capsule6
+    3300006: Revolver chamber chamber1 indents1 Capsule7
+    3300008: Revolver chamber chamber1 indents1 Capsule8
+    3300010: Revolver chamber chamber1 indents1 indents Capsule
+    3300012: Revolver chamber chamber1 indents1 indents Capsule1
+    3300014: Revolver chamber chamber1 indents1 indents Capsule2
+    3300016: Revolver chamber chamber1 indents1 indents Capsule4
+    3300018: Revolver chamber chamber1 indents1 indents Capsule9
+    3300020: Revolver chamber chamber1 load Cylinder
+    3300022: Revolver chamber rod
+    3300024: Revolver Grip Grip1 Cube3
+    3300026: Revolver Hammer Hammer1 Cube
+    3300028: Revolver safety safety1
+    3300030: Revolver Sights front_sight front_sight1
+    3300032: Revolver Sights rear_sight rear_sight1
+    3300034: Revolver trigger trigger1 Cube2
+    3300036: Revolver weapon_frame back_ring
+    3300038: Revolver weapon_frame Tube
+    3300040: Revolver weapon_frame weapon_frame1 Null model_MeshPart0
+    3300042: Revolver weapon_frame weapon_frame1 Null model_MeshPart1
+    3300044: Revolver weapon_frame weapon_frame1 subtractions Capsule3
+    3300046: Revolver weapon_frame weapon_frame1 subtractions Cube1
+    3300048: Revolver weapon_frame weapon_frame1 subtractions Cube4
+    3300050: Revolver weapon_frame weapon_frame1 subtractions Cylinder1
+    3300052: Revolver weapon_frame weapon_frame1 subtractions Cylinder2
+    3300054: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.000
+    3300056: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.001
+    3300058: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.002
+    3300060: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.003
+    3300062: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.004
+    3300064: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.005
+    3300066: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.006
+    3300068: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.007
+    3300070: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.008
+    3300072: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.009
+    3300074: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.010
+    3300076: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.011
+    3300078: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.012
+    3300080: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.013
+    3300082: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.014
+    3300084: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.015
+    3300086: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.016
+    3300088: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.017
+    3300090: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.018
+    3300092: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.019
+    3300094: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.020
+    3300096: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.021
+    3300098: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.022
+    3300100: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.023
+    3300102: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.024
+    3300104: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.025
+    3300106: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.026
+    3300108: Revolver weapon_frame weapon_frame1 subtractions Null1 Null2 _2
+    4300000: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.026
+    4300002: Revolver weapon_frame weapon_frame1 Null model_MeshPart0
+    4300004: Revolver weapon_frame weapon_frame1 Null model_MeshPart1
+    4300006: Revolver weapon_frame Tube
+    4300008: Revolver Sights rear_sight rear_sight1
+    4300010: Revolver chamber chamber1 indents1 Capsule6
+    4300012: Revolver weapon_frame back_ring
+    4300014: Revolver chamber chamber1 indents1 Capsule5
+    4300016: Revolver weapon_frame weapon_frame1 subtractions Cube4
+    4300018: Revolver chamber rod
+    4300020: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.025
+    4300022: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.024
+    4300024: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.023
+    4300026: Revolver safety safety1
+    4300028: Revolver chamber chamber1 load Cylinder
+    4300030: Revolver weapon_frame weapon_frame1 subtractions Cylinder2
+    4300032: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.022
+    4300034: Revolver chamber chamber1 indents1 indents Capsule9
+    4300036: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.021
+    4300038: Revolver weapon_frame weapon_frame1 subtractions Capsule3
+    4300040: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.020
+    4300042: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.019
+    4300044: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.018
+    4300046: Revolver Hammer Hammer1 Cube
+    4300048: Revolver chamber chamber1 indents1 Capsule7
+    4300050: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.017
+    4300052: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.016
+    4300054: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.015
+    4300056: Revolver chamber chamber1 indents1 indents Capsule
+    4300058: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.014
+    4300060: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.013
+    4300062: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.012
+    4300064: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.011
+    4300066: Revolver Sights front_sight front_sight1
+    4300068: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.010
+    4300070: Revolver chamber chamber1 indents1 indents Capsule2
+    4300072: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.009
+    4300074: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.008
+    4300076: Revolver chamber chamber1 indents1 indents Capsule4
+    4300078: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.007
+    4300080: Revolver Grip Grip1 Cube3
+    4300082: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.006
+    4300084: Revolver chamber chamber1 indents1 Capsule10
+    4300086: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.005
+    4300088: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.004
+    4300090: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.003
+    4300092: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.002
+    4300094: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.001
+    4300096: Revolver weapon_frame weapon_frame1 subtractions Null1 Null.000
+    4300098: Revolver weapon_frame weapon_frame1 subtractions Cylinder1
+    4300100: Revolver weapon_frame weapon_frame1 subtractions Cube1
+    4300102: Revolver trigger trigger1 Cube2
+    4300104: Revolver chamber chamber1 indents1 indents Capsule1
+    4300106: Revolver chamber chamber1 indents1 Capsule8
+    4300108: Revolver weapon_frame weapon_frame1 subtractions Null1 Null2 _2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
