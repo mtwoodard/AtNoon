@@ -5,14 +5,16 @@ using UnityEngine;
 
 public class MatchMaster : MonoBehaviour {
     public Text timeLeft;
-    public Image draw;
+    public Text draw;
     Timer timer;
-
+    SmoothMouseLook mainCamera;
     // Use this for initialization
     void Start () {
         timer = gameObject.AddComponent<Timer>();
-        timeLeft.text = "" + (int)timer.timeLeft;
+        timeLeft.gameObject.SetActive(false);
         StartCoroutine(StartMatch());
+        mainCamera = Globals.Instance.Global("MainCamera").GetComponent<SmoothMouseLook>();
+        mainCamera.cameraLock = true;
 	}
 
     void Update()
@@ -27,5 +29,7 @@ public class MatchMaster : MonoBehaviour {
         yield return new WaitForSeconds(1f);
         timer.Begin(60);
         draw.gameObject.SetActive(false);
+        timeLeft.gameObject.SetActive(true);
+        mainCamera.cameraLock = false;
     }
 }
