@@ -22,5 +22,6 @@ public class LevelLoader : MonoBehaviour {
             slider.value = progress;
             yield return null;
         }
+        GameMaster.Instance.OnLoad(sceneName);
     }
 }

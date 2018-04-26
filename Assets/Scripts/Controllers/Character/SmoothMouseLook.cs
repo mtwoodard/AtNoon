@@ -34,6 +34,11 @@ public class SmoothMouseLook : MonoBehaviour
     {
         Cursor.lockState = CursorLockMode.Locked;
         player = GetComponentInParent<PlayerController>();
+        finalMouse.y = transform.localRotation.eulerAngles.x; //final mouse x is actually the horizontal axis on screen not the rotation on the axis y
+        if (character)
+            finalMouse.x = character.transform.localRotation.eulerAngles.y;
+        else
+            finalMouse.x = transform.localRotation.eulerAngles.y;
     }
 
     void Update()

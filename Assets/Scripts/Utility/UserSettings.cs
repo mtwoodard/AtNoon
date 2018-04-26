@@ -4,7 +4,7 @@ using System.IO;
 using UnityEngine;
 
 [System.Serializable]
-public class UserSettings : MonoBehaviour {
+public class UserSettings{
 
     public float volumeSFX;     
     public float volumeVoice;
